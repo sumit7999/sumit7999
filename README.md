@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @sumit7999
-- 👀 I’m interested in Data Analyst & Data Science 
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @sumit7999.
+- 👀 I’m interested in Data Analyst & Data Science .
+- 🌱 I’m currently learning Python for data science.
 - 📫 How to reach me ... m.sumit7999@gmail.com
 
 <!---
