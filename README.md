@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumit7999.
 - 👀 I’m interested in Data Analyst & Data Science .
-- 🌱 I’m currently learning Python for data science.
+- 🌱 I’m currently learning Python for Data Science.
 - 📫 How to reach me ...email-  m.sumit7999@gmail.com , linkedIn- https://www.linkedin.com/in/sumit-mishra-940aa5221/
 
 <!---
